@@ -1,0 +1,5 @@
+1. What is the top 3 most popular service that customer prefer to use?
+2. How many of those who unsubscribed and still subscribe used the phone service?
+3. Base on the information given, what is the percentage of people that will retain?
+4. What is the best matrix method to use for this platform?
+5. Could a model built on this dataset be used to prefict churn in the future?
