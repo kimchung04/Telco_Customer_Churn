@@ -1,31 +1,13 @@
-# Telcom Customer Churn Project
+# Telco_Customer_Churn
+Final project 
 
 
-## Dataset Description
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
-The Telcom Customer Churn dataset contains information about customers of a telecommunications company, including their demographics, services used, and whether they have churned (i.e., stopped using the company's services). The raw data contains 7,043 rows (customers) and 21 columns (features).
+The final project will consist of predicting whether or not this company can retain customers by providing substantial data. 
 
-## Database Schema
+The presentation: Topic: Our topic is customer churn in the telecommunications industry. We chose this topic because it is a common problem faced by telecommunications companies, and we believe that our analysis could provide insights that could help companies reduce churn rates and improve customer retention.
 
-We have designed a database to store the Telcom Customer Churn dataset. The database has two tables: one for customer information and one for service information. The database schema is defined in the telcom_churn.sql file.
+Data description: The Telcom Customer Churn dataset includes information about customers' demographics, services used, and whether they have churned. There are 7,043 customers in the dataset, and each customer has 20 attributes.
 
-## Project Goals
-
-Our goal is to explore factors that may be related to customer churn and develop predictive models to identify customers who are likely to churn in the future. To achieve this goal, we plan to:
-
- - Clean and preprocess the data to prepare it for analysis.
- - Conduct exploratory data analysis to identify patterns and relationships in the data.
- - Develop and evaluate predictive models using machine learning techniques.
- - Document our analysis and findings in a Jupyter notebook.
- - Present our results in a final presentation.
-
-# Team Members
-
-Team member 1: Chris
-Team member 2: Issa 
-Team member 3: Marley
-Team member 4: Kim
-
-### Progress Updates:
-
-We will update this README.md file regularly to reflect the current status of the project. We will also use GitHub to track our progress and make commits as we work on different aspects of the project.
+Questions: Our main research question is: What factors are related to customer churn in the telecommunications industry, and how can these factors be used to predict which customers are likely to churn in the future? To answer this question, we plan to conduct exploratory data analysis to identify patterns and relationships in the data, and then develop and evaluate predictive models using machine learning techniques. 
