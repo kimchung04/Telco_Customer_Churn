@@ -19,3 +19,4 @@ Questions: Our main research question is: What factors are related to customer c
 5. Could a model built on this dataset be used to predict churn in the future?
 
 https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+
