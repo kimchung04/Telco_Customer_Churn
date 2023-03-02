@@ -21,3 +21,10 @@ Could a model built on this dataset be used to predict churn in the future?
 https://app.quickdatabasediagrams.com/#/d/Br7hTj
 
 https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+
+Group members
+
+Kim Chung 
+Marley Amisial 
+Issa Olmedo
+Christian Perez
