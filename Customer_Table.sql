@@ -8,7 +8,7 @@ CREATE TABLE services (
 -- create the contracts table
 CREATE TABLE contracts (
     contract_id SERIAL PRIMARY KEY,
-    customer_id INTEGER REFERENCES customers(customer_id),
+    customer_id VARCHAR REFERENCES customers(customer_id),
     start_date DATE,
     end_date DATE,
     monthly_cost DECIMAL(10,2),
@@ -18,7 +18,7 @@ CREATE TABLE contracts (
 -- create the payments table
 CREATE TABLE payments (
     payment_id SERIAL PRIMARY KEY,
-    customer_id INTEGER REFERENCES customers(customer_id),
+    customer_id VARCHAR REFERENCES customers(customer_id),
     payment_date DATE,
     payment_amount DECIMAL(10,2),
     payment_method VARCHAR(30)
@@ -27,7 +27,7 @@ CREATE TABLE payments (
 -- create the complaints table
 CREATE TABLE complaints (
     complaint_id SERIAL PRIMARY KEY,
-    customer_id INTEGER REFERENCES customers(customer_id),
+    customer_id VARCHAR REFERENCES customers(customer_id),
     complaint_date DATE,
     complaint_type VARCHAR(30),
     resolution VARCHAR(30)
