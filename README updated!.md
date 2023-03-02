@@ -25,6 +25,9 @@ https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 Group members
 
 Kim Chung 
+
 Marley Amisial 
+
 Issa Olmedo
+
 Christian Perez
