@@ -2,7 +2,8 @@
 Final project 
 Click here to view the dashboard on Tableau:[Telco Customer Churn Dashboard](https://public.tableau.com/views/TelcomCustomer-Churn_16777838963050/Painel1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
-###Data Resource :https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+Data Resource:
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 The final project will consist of predicting whether or not this company can retain customers by providing substantial data. 
 
