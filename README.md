@@ -4,6 +4,8 @@
 
 Our project aims to analyze customer churn in the telecommunications industry and provide insights that could help businesses reduce their churn rates and improve customer retention, ultimately leading to increased profitability and customer satisfaction. Through exploratory data analysis and machine learning techniques, we seek to identify patterns and trends in customer behavior that can be utilized to predict and prevent churn.
 
+[Keyport to Tableau Dashboard](https://public.tableau.com/views/TelcomCustomerChurn_16778056675880/MultipleLinesvsChurn?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
 ## Project Overview
 
 Our project centers on analyzing the phenomenon of customer churn in the telecommunications industry, a ubiquitous problem faced by companies in this sector. Leveraging the Telcom Customer Churn dataset, our analysis aims to uncover valuable insights that can aid businesses in reducing their churn rates and enhancing customer retention, ultimately contributing to improved profitability and customer satisfaction.
