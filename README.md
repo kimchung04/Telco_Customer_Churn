@@ -1,5 +1,13 @@
 # Refining the Final Project Description
 
+CONCLUSION
+The importance of this type of research in the telecom market is to assist companies in increasing their profits.
+Predicting churn has become one of the most important sources of revenue for telecom companies.
+As a result, the goal of this study was to develop a system that predicts customer churn in a telecom company.
+These prediction models must have a high AUC. The sample data is divided into 70% for training and 30% for testing to test and train the model.
+
+
+
 ## Mission Statement
 
 Our project aims to analyze customer churn in the telecommunications industry and provide insights that could help businesses reduce their churn rates and improve customer retention, ultimately leading to increased profitability and customer satisfaction. Through exploratory data analysis and machine learning techniques, we seek to identify patterns and trends in customer behavior that can be utilized to predict and prevent churn.
