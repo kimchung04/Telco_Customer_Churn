@@ -2,8 +2,11 @@
 
 CONCLUSION
 The importance of this type of research in the telecom market is to assist companies in increasing their profits.
+
 Predicting churn has become one of the most important sources of revenue for telecom companies.
+
 As a result, the goal of this study was to develop a system that predicts customer churn in a telecom company.
+
 These prediction models must have a high AUC. The sample data is divided into 70% for training and 30% for testing to test and train the model.
 
 
